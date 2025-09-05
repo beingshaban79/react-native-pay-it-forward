@@ -1,0 +1,213 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/KulimPark-Bold.ttf",
+      "sha1": "dc801c6badaa437e9ae77dcac54f315576bb35ca"
+    },
+    {
+      "path": "src/assets/fonts/KulimPark-BoldItalic.ttf",
+      "sha1": "e1c784aacc491e9132866cdc3bc83481c059ffcd"
+    },
+    {
+      "path": "src/assets/fonts/KulimPark-ExtraLight.ttf",
+      "sha1": "98ba2445a55792620b09eec9a0880539355227e5"
+    },
+    {
+      "path": "src/assets/fonts/KulimPark-ExtraLightItalic.ttf",
+      "sha1": "b1b4a09290a142ebd8e695718218e7517ac77cf3"
+    },
+    {
+      "path": "src/assets/fonts/KulimPark-Italic.ttf",
+      "sha1": "536788e2aae4e72e03e11704a923be098c9ecb27"
+    },
+    {
+      "path": "src/assets/fonts/KulimPark-Light.ttf",
+      "sha1": "40be0021611087aaef51018e060d6d49d20b97b9"
+    },
+    {
+      "path": "src/assets/fonts/KulimPark-LightItalic.ttf",
+      "sha1": "37e1b371675a750edc9bd02709890cf07430dc89"
+    },
+    {
+      "path": "src/assets/fonts/KulimPark-Regular.ttf",
+      "sha1": "4bd1ab3e16556992eafeead164d6fbf10efefd3f"
+    },
+    {
+      "path": "src/assets/fonts/KulimPark-SemiBold.ttf",
+      "sha1": "9fd3185830aa117d4b72d9333b51756ea88e0f45"
+    },
+    {
+      "path": "src/assets/fonts/KulimPark-SemiBoldItalic.ttf",
+      "sha1": "594ebfeede2b9368722770778633e0a784607f2f"
+    },
+    {
+      "path": "src/assets/fonts/Lato-Black.ttf",
+      "sha1": "a001eb827743636e04f8efa7d4aeedf0541c46ac"
+    },
+    {
+      "path": "src/assets/fonts/Lato-BlackItalic.ttf",
+      "sha1": "b490ec02c69bb74f5b4f487c59e984891c8da71c"
+    },
+    {
+      "path": "src/assets/fonts/Lato-Bold.ttf",
+      "sha1": "542498221d97bee5bdbccf86ee8890bf8e8005c9"
+    },
+    {
+      "path": "src/assets/fonts/Lato-BoldItalic.ttf",
+      "sha1": "6bf491e78e16d3b9c8a55752e1bd658e15ed7f19"
+    },
+    {
+      "path": "src/assets/fonts/Lato-Italic.ttf",
+      "sha1": "190187b720ec2f2ff2e4281237e301000e09673f"
+    },
+    {
+      "path": "src/assets/fonts/Lato-Light.ttf",
+      "sha1": "ad0d178564445a535b15d417f5b18019923d3bab"
+    },
+    {
+      "path": "src/assets/fonts/Lato-LightItalic.ttf",
+      "sha1": "34388d9a3b64380c9f08d424d0adaa88a0d1650a"
+    },
+    {
+      "path": "src/assets/fonts/Lato-Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+    },
+    {
+      "path": "src/assets/fonts/Lato-Thin.ttf",
+      "sha1": "07290446bee3f81ce501a3c3dbfde6097c70ca15"
+    },
+    {
+      "path": "src/assets/fonts/Lato-ThinItalic.ttf",
+      "sha1": "ff4a1a9fe2dcc41d993f4c5067a3baa1c456ff97"
+    },
+    {
+      "path": "src/assets/fonts/LeagueSpartan-Black.ttf",
+      "sha1": "ac4e4e987cf0a17c59abf4a6ffc521d09b24e0f2"
+    },
+    {
+      "path": "src/assets/fonts/LeagueSpartan-Bold.ttf",
+      "sha1": "6d89e29970900deb2e7ccf311b29de7e9980a14c"
+    },
+    {
+      "path": "src/assets/fonts/LeagueSpartan-ExtraBold.ttf",
+      "sha1": "a9b5dfcecf33ecb0cd89b3660a61b646f3c4357d"
+    },
+    {
+      "path": "src/assets/fonts/LeagueSpartan-ExtraLight.ttf",
+      "sha1": "e2e642ae6fa64d21ca0dd30bd641e03ce87f06e9"
+    },
+    {
+      "path": "src/assets/fonts/LeagueSpartan-Light.ttf",
+      "sha1": "a3b4e8f99f7839a3544db8911701b18b970c19cf"
+    },
+    {
+      "path": "src/assets/fonts/LeagueSpartan-Medium.ttf",
+      "sha1": "25a3b2045642fa4c93d41bdc5f1706d37aa17328"
+    },
+    {
+      "path": "src/assets/fonts/LeagueSpartan-Regular.ttf",
+      "sha1": "da5d949145fd9576e1049f3b968a64e20a090d44"
+    },
+    {
+      "path": "src/assets/fonts/LeagueSpartan-SemiBold.ttf",
+      "sha1": "33e260364f621b9f867702e65f575f06dcc25d51"
+    },
+    {
+      "path": "src/assets/fonts/LeagueSpartan-Thin.ttf",
+      "sha1": "b388b1a09d79a83c32b706a1b1a292d908dfed75"
+    },
+    {
+      "path": "src/assets/fonts/MalarkeyRegular.ttf",
+      "sha1": "ab9c6b6e9c2f454054b21cc630d46b9bef9b16ff"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "98c66622226025f539568865af96df5175e2979c"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Light.ttf",
+      "sha1": "9dfbddad5025d8d224b4939e54c1a4ac8ac6015b"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "25c429296b9d6eb242cba92d1ee7fae484b019cb"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "bb895d19b8a1fbe1c57fc89cac5da82fdc8fdef4"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-Black.ttf",
+      "sha1": "12288367e71738d717e07a9e893d61f95275847a"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-BlackItalic.ttf",
+      "sha1": "5e7f99d12807f9b9cf3eed37f2644eef27ddf004"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-Bold.ttf",
+      "sha1": "ee2840aba1ce4aba9ce6d17ebc061e3b2e3e85af"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-BoldItalic.ttf",
+      "sha1": "4def30aba974909ce877f3edc3bd02a0d818eac9"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-ExtraBold.ttf",
+      "sha1": "18422726398a748f7745ce9c60d72b0cdd4c66b5"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-ExtraBoldItalic.ttf",
+      "sha1": "e3333f2afe493b5abc7476526e52ceb917b0edac"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-Italic.ttf",
+      "sha1": "c1c84250ddf358128a0cf1d0b81fad1d60722a36"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-Light.ttf",
+      "sha1": "083dac2096017a495c75dda09d261d40658d2bf9"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-LightItalic.ttf",
+      "sha1": "a13ae03fdd549fa908f1ff99b249cbadddf1adae"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-Medium.ttf",
+      "sha1": "95789df2bed1bbee3b1fe7bbb1292421475de841"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-MediumItalic.ttf",
+      "sha1": "ac6355387fb02bbe64b2ab6ad390f65ccad0dc20"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-Regular.ttf",
+      "sha1": "62eb31c0a702457d169f576fa2fd89a099c2d70e"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-SemiBold.ttf",
+      "sha1": "1090a332c1e836481bec3bedd8fb2dad04ec0c2a"
+    },
+    {
+      "path": "src/assets/fonts/RedHatDisplay-SemiBoldItalic.ttf",
+      "sha1": "a4819b5ce44483ecd3bbd248390fdce03bde2cd4"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "0ce37ced9c5fcac9bdc452a432c1258870ba4677"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Light.ttf",
+      "sha1": "73a2bb2d6e591a90ffb4ed118a3989fb17b54c7b"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Medium.ttf",
+      "sha1": "5f16f4d6dbb4a4f12d8ae96488ac209bb49762a5"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Regular.ttf",
+      "sha1": "dd1b1db13ff1f72138c134c62f38fef83749f36a"
+    }
+  ]
+}
